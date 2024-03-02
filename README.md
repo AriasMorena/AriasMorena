@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **morenaarias003@gmail.com**
 
-- 📄 Know about my experiences https://github.com/AriasMorena/myresume.git
+- 📄 Know about my experiences https://github.com/AriasMorena/My-Resume.git
 
 - ⚡ Fun fact **I'm a self-taught person, I love learning new things and challenging myself to be better at what I do!!**
 
