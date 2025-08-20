@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariasmorena&label=Profile%20views&color=0e75b6&style=flat" alt="ariasmorena" /> </p>
 
-- 🌱 I’m currently learning **Java and Phython**
+- 🌱 I’m currently learning **Phython**
 
 - 💬 Ask me about **JavaScript, PHP, C#**
 
